@@ -7,7 +7,7 @@
 - 🔭 I’m Currently Working on some Portfolio Projects
 
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhirajkrishnan&layout=compact&bg_color=1d211e&text_color=0cf0e4&icon_color=14f00c&title_color=f2fcfc&border_color=c6ed1a&border_radius=10"><img align="right" src="https://github-readme-stats.vercel.app/api?username=abhirajkrishnan&show_icons=true&bg_color=292b21&text_color=0cf0e4&icon_color=14f00c&title_color=f2fcfc&border_color=c6ed1a&border_radius=10">
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhirajkrishnan&layout=compact&bg_color=1d211e&text_color=0cf0e4&icon_color=14f00c&title_color=f2fcfc&border_color=c6ed1a&border_radius=10&card_width=300"><img align="right" src="https://github-readme-stats.vercel.app/api?username=abhirajkrishnan&show_icons=true&bg_color=292b21&text_color=0cf0e4&icon_color=14f00c&title_color=f2fcfc&border_color=c6ed1a&border_radius=10">
 </p>
 <br/><br/><br/><br/>
 
