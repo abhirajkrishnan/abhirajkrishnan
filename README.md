@@ -1,5 +1,6 @@
 # <p align="center">Hi there 👋, I am Abhiraj Krishnan</p>
-## <p align="center">Building And Breaking With Full Stack Engineering and Infosec Stuff !!!</p>
+## <p align="center">Building And Breaking !!!</p>
+## <p align="center">Doing Full Stack Engineering and Infosec Stuff !!!</p>
 
 ### Skills: <img src="https://badges.aleen42.com/src/javascript.svg">  <img src="https://badges.aleen42.com/src/react.svg">   <img src="https://badges.aleen42.com/src/node.svg">  <img src="https://badges.aleen42.com/src/tailwindcss.svg">  <img src="https://badges.aleen42.com/src/typescript.svg">  <img src="https://badges.aleen42.com/src/webpack.svg">   <img src="https://img.shields.io/static/v1?label=redux-toolkit&message=1.6.1&color=blueviolet">
 
